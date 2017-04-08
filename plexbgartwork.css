@@ -24,7 +24,7 @@
 [class^="PrePlayArtwork-imageContainer-"] > div:first-child {
     width: 100% !important;
     height: 100% !important;
-    opacity: 0.15 !important;
+    opacity: 0.1 !important;
 }
 
 /* Resizing adds extra divs */
